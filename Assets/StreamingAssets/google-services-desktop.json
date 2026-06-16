@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237738837917",
+    "firebase_url": "https://learn-61000-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "learn-61000",
+    "storage_bucket": "learn-61000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237738837917:android:4da490a19baf48f16dd174",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237738837917-l1vtqqjh5bq598rgqiped4k0f32995n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeOoH3ws1YuidwBCw9l2EAA-OCDiA5RYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237738837917-l1vtqqjh5bq598rgqiped4k0f32995n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

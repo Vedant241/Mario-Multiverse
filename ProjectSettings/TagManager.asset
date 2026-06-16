@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Goomba
+  - Enemy
+  - Mystery
+  - Pipe
+  - Wall
+  - Mushroom
+  - Starman
+  - Objective
+  - Obstacle
+  - obstical
+  - FxTemporaire
+  - Bird
+  - 1UpMushroom
+  - CollisionCheck
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Pacman
+  - Ghost
+  - Pellet
+  - Obstacle
+  - Node
+  - Player
+  - Ladder
+  - PowerUps
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2036299753
+    locked: 0
+  - name: PowerUps
+    uniqueID: 1592154145
+    locked: 0
+  - name: Enemies
+    uniqueID: 849673319
+    locked: 0
+  - name: Mario
+    uniqueID: 193912237
+    locked: 0
+  - name: Pipes
+    uniqueID: 3886169877
+    locked: 0
+  - name: Blocks
+    uniqueID: 1818390111
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

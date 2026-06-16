@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginSystem.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a7725efaff6b7634c89895955095f1b2
+  - enabled: 1
+    path: Assets/Scenes/GameSelectionScene.unity
+    guid: bd49e3ef3933f464f857c61852bb7469
+  - enabled: 1
+    path: Assets/Scenes/MarioPreload.unity
+    guid: ec91f0da4f6a0fd409c7b1933388b370
+  - enabled: 1
+    path: Assets/Scenes/Mario.unity
+    guid: 99258222830b40b46b7c09e9a7099a25
+  - enabled: 1
+    path: Assets/Scenes/DinoGame.unity
+    guid: 2e4bcc4e0b8e4e54da0daa04fb3f19db
+  - enabled: 1
+    path: Assets/Scenes/FlappyBirdGame.unity
+    guid: ca3f0cfc957726d489220d04532012d5
+  - enabled: 1
+    path: Assets/Scenes/Preload.unity
+    guid: c558b5fa1d463fb4e93bcd20314d9013
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: e9bfca0b4b559804d9eb4f1d82863e12
+  - enabled: 1
+    path: Assets/Scenes/Pacman.unity
+    guid: 8d37d3e270c3cf3429f7bc788abcf0ae
+  - enabled: 1
+    path: Assets/Scenes/MultiversePreload.unity
+    guid: 0a867b3f0f2d7d247ba83f98af2d73e6
+  - enabled: 1
+    path: Assets/Scenes/MultiVerse.unity
+    guid: 0a5a7458d2ca12a44831733aea4c5ed2
+  m_configObjects: {}
